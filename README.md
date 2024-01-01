@@ -1,6 +1,6 @@
 # MAZE
 
-![MAZE Thumbnail](/thumbnail.png)
+![MAZE Thumbnail](/MazeThumb.jpg)
 
 ## Overview
 
@@ -14,7 +14,7 @@ MAZE offers an immersive gaming experience:
 - **Objective:** Explore levels, avoid enemies, and reach the goal to advance.
 
 ## Gameplay
-![MAZE Gameplay](/gameplay.gif)
+![MAZE Gameplay](/Gameplay.gif)
 
 ## Features
 
